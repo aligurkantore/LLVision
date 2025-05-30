@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LLVision</string>
+    <string name="permission_denied">Permission denied!</string>
+    <string name="overlay_permission_denied">Overlay permission denied!</string>
+    <string name="sdk_init_failed">SDK initialization failed: %1$s</string>
+    <string name="device_connected">Device connected</string>
+    <string name="device_disconnected">Device disconnected</string>
+</resources>
